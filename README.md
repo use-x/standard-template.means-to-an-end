@@ -1,2 +1,2 @@
-# standard-template.use-x
+# standard-template.means-to-an-end
 Simpy a standard template for a domain with index.php, styles.css ...
